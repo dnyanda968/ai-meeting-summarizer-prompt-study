@@ -1,0 +1,13 @@
+Prompt 1 Output :
+In the weekly sync, Bob reported that he finished the marketing plan draft, and Carol committed to completing the product specification by Wednesday. The team agreed to review all materials together on Friday.
+
+Prompt 2 Output:
+* Alice kicked off the weekly sync meeting.
+* Bob reported that he completed the marketing plan draft.
+* Carol committed to finishing the product specification by Wednesday.
+* Alice confirmed that the team will review all materials together on Friday.
+
+Prompt 3 Output:
+* **Bob:** Completed the marketing plan draft (no further action required until review).
+* **Carol:** Finish the product specification by Wednesday.
+* **Alice:** Lead the review of all materials on Friday.
