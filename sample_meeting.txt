@@ -1,0 +1,4 @@
+[00:00] Alice: Let's start the weekly sync.
+[00:05] Bob: I completed the marketing plan draft.
+[00:10] Carol: I'll finish the product spec by Wednesday.
+[00:15] Alice: Great. We'll review everything on Friday.
